@@ -8,8 +8,8 @@
     "publicKeyJwk": {
       "kty": "EC",
       "crv": "secp256k1",
-      "x": "PLXa8cbf+Bsij/69VrGbZaQaFqmLMYER2xxE/dSCAoA=",  // 클라이언트의 x (base64) 값
-      "y": "DFeXhe2AEfPphbQF/0/4Mr136lq1h1huxCdNxyzXO4U="   // 클라이언트의 y (base64) 값
+      "x": "PLXa8cbf+Bsij/69VrGbZaQaFqmLMYER2xxE/dSCAoA=",
+      "y": "DFeXhe2AEfPphbQF/0/4Mr136lq1h1huxCdNxyzXO4U="
     }
   }],
   "authentication": ["did:web:soonding.github.io:client_did#owner"],
