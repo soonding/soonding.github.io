@@ -8,8 +8,8 @@
     "publicKeyJwk": {
       "kty": "EC",
       "crv": "secp256k1",
-      "x": "Ev+zHJPeB1jbTNcKSlazdfuFq2mY2MVEFqr1FjPuJkM=",
-      "y": "gR190fHz+fEB0A4pWqPi+Z3JKvnrJ+hBA0fnXz54kTs="
+      "x": "i6e8AHNUn0BbAVI+SABK2XHUjrC9LHXwH6nCw56haPM=",
+      "y": "Ed3txb/6k3MVVPGN7woGFdKVJ+AEETvA81FiEk/BtWw="
     }
   }],
   "authentication": ["did:web:soonding.github.io:client_did#owner"],
